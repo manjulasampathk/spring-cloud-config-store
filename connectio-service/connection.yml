@@ -1,1 +1,2 @@
-service.endpoint=http://localhost:8080/hello
+service:
+  endpoint: http://localhost:8080/hello
